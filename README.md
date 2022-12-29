@@ -5,7 +5,8 @@
 
 <center>
 :heartpulse:여행을 좋아하는 24살:heartpulse:
-:us::ca::fr::it:::de::ca::cn::hk::gu::jp::sg::tw:
+
+:us: :ca: :fr: :it: ::de: :ca: :cn: :hk: :gu: :jp: :sg: :tw:
 
 MBTI : ENFJ
 
@@ -13,18 +14,14 @@ MBTI : ENFJ
 <center/>
 
 <center>
-**:hammer_and_wrench:Tech Stack:hammer_and_wrench:**
+<h3>:hammer_and_wrench:Tech Stack:hammer_and_wrench:</h3>
 
 Techs that I've used at least once
 <center/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-squar&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squar&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-squar&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-squar&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/linux-FCC624?style=flat-squar&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squar&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-squar&logo=mariaDB&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=flat-squar&logo=c%2B%2B&logoColor=white">
 
 <br/>
 
