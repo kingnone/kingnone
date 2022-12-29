@@ -21,4 +21,4 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squar&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-squar&logo=mariaDB&logoColor=white">
 <br/>
 
-![kingnone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingnone&show_icons=true&theme=radical)
+![kingnone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingnone&show_icons=true&theme=buefy)
