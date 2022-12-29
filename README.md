@@ -3,7 +3,7 @@
 <br/>
 :heartpulse:여행을 좋아하는 24살:heartpulse:
 
-:us: :ca: :fr: :it: ::de: :ca: :cn: :hk: :gu: :jp: :sg: :tw:
+<!-- >:us: :ca: :fr: :it: ::de: :ca: :cn: :hk: :gu: :jp: :sg: :tw: -->
 
 MBTI : ENFJ
 
