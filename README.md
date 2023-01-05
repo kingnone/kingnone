@@ -22,3 +22,5 @@ Techs that I've used at least once
 <br/>
 
 ![kingnone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingnone&show_icons=true&theme=buefy)
+
+![kingnone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingnone&theme=buefy&show_icons=true)
