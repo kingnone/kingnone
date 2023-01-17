@@ -2,7 +2,7 @@
 <div align = "center">
 
 ## Hi there :wave: 
-My name is Nawon.
+My name is Nawon.  
 I majored in Information Security from Korea.
 
 <!-- >:us: :ca: :fr: :it: ::de: :ca: :cn: :hk: :gu: :jp: :sg: :tw: -->
