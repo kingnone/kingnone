@@ -1,14 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=35:FFD9E7,65:CAC9FF&height=100&section=header&text=kingnone%20&fontSize=80&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=35:FFD9E7,65:CAC9FF&height=100&section=header)
 <div align = "center">
 <br/>
-Hi there :wave: My name is Nawon.
+
+## Hi there :wave: 
+
+My name is Nawon.
 I majored in Information Security from Korea.
 
 <!-- >:us: :ca: :fr: :it: ::de: :ca: :cn: :hk: :gu: :jp: :sg: :tw: -->
 
 
 
-<h3>:hammer_and_wrench:Tech Stack:hammer_and_wrench:</h3>
+## :hammer_and_wrench:Tech Stack:hammer_and_wrench:</h3>
 
 Techs that I've used at least once
 
@@ -23,4 +26,4 @@ Techs that I've used at least once
 <!-- 
 ![kingnone's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingnone&theme=dracula&show_icons=true) -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=35:FFD9E7,65:CAC9FF&height=100&section=header&text=kingnone%20&fontSize=80&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=35:FFD9E7,65:CAC9FF&height=100&section=footer)
